@@ -1,0 +1,3 @@
+[console_scripts]
+helloworld = sorting_func_yp.main:sort_this
+
